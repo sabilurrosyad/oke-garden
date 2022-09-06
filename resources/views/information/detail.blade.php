@@ -11,7 +11,7 @@
     <title>welcome to oke Garden</title>
   </head>
   <body>
-    <h1 class="text-center mb-4">Change Database Values</h1>
+    <h1 class="text-center mb-4">Detail Values</h1>
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-8">

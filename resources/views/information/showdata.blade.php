@@ -32,7 +32,7 @@
                   <input type="text" name="status" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="masukkan status" value="{{ $data->status }}">
                 </div>  
                 <button type="submit" class="btn btn-primary">Submit</button>
-                <a href="/home1" type="button" class="btn btn-warning">back</a>
+                <a href="/admin/home1" type="button" class="btn btn-warning">back</a>
               </form>
             </div>
           </div>
